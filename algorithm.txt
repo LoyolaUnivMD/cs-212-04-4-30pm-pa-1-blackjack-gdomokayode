@@ -1,1 +1,25 @@
+//import the java scanner class to take user input.
+//Begin the game
+//Output: Welcome to Black card's deck of games.
+//Assign and initialize int variables to the cards
+//initialize an int variable to "Jacks", "Queens", "Kings" and the number 10;
+//Deal up face one card to the player and one to themself.
+//Deal up face two card to the player and a face-down card to the dealer
+//Add the total value for both the player and the dealer.
+//Use a while loop to prompt user to input whether they would want to "Hit" or "Stay";
+//Implement the if/ else decision statement.
+   // if user prompts "hit", Add up a face up card;
+   // if value > 21
+         //player wins the game
+         //else if player chooses to "stay"; move to the dealers turn.
+
+         //use a while loop, while user hand is less than 17;
+         //Increment the dealers card
+         // check the total values of the players and the dealer;
+         //If the dealer total is greater than 21 or player total is greater than the dealer total:
+              //The player wins
+              //else if the dealer total is greater than the dealer total:
+              // output The player lose
+              //else
+                //The game is a tie
 
